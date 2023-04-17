@@ -1,4 +1,4 @@
-public package org.example.hw;
+
 
 import java.math.BigDecimal;
 
@@ -48,6 +48,6 @@ public class Drinkables extends Product {
         if (volume > 0) this.volume = volume;
         else System.out.println("Объем напитка должен быть больше нуля!");
     }
-} {
+} 
     
-}
+

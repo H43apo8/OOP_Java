@@ -1,6 +1,3 @@
-
-package org.example.hw;
-
 import java.math.BigDecimal;
 
 /**

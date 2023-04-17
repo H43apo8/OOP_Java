@@ -1,5 +1,3 @@
-package org.example.hw;
-
 import java.util.ArrayList;
 import java.util.List;
 
