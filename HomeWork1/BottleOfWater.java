@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+package org.example.hw;
+
+>>>>>>> Stashed changes
 import java.math.BigDecimal;
 
 /**
