@@ -1,7 +1,11 @@
 import Classes.Market;
 import Classes.OrdinaryClient;
 import Classes.SpecialClient;
+import Classes.Client;
+import Classes.PromotionalClient;
 import Interfaces.iActorBehaviour;
+import Interfaces.iReturnOrder;
+
 
 public class App {
     public static void main(String[] args) throws Exception {
